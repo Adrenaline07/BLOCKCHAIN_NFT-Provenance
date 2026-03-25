@@ -1,0 +1,3 @@
+set ALCHEMY_API_KEY=GDBuuslHCq9NrOITnyRcD
+set HELIUS_API_KEY=0ea84106-4650-4765-9e90-77ce5de71a74
+python api.py

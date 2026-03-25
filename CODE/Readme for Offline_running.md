@@ -1,5 +1,5 @@
 # This project ran script for both online and offline NFT Provenance
-The online running 'readme' is a diferent file
+The online running 'readme' is a different file
 ---
 
 ## What This Project Does
